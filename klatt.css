@@ -1,4 +1,8 @@
 
+
+
+
     body {
-      background-color: lightblue;
+      <img rc="myBanner.jpg>
+      background-image: url("myBackground.jpg");
     }

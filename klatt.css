@@ -1,8 +1,6 @@
 
 
-
-
     body {
       <img src="myBanner.jpg>
-      background-image: ("myBackground.jpg");
+      background-image: url ("myBackground.jpg");
     }

@@ -7,11 +7,11 @@ body {
         #Home {width: 260px}
         #JavaSript {width: 260px}
         #About-Me {width: 260px}
-      
-}
-
-
-.para1 {
+      .para1 {
   font-family: Monaco, monospace;
   color: white;
 }
+}
+
+
+

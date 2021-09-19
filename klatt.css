@@ -14,11 +14,12 @@ body {
 
 h1  {
     color: white;
-    font-size: 30px;
+    font-size: 75px;
     font-style: oblique;
 }
 
 
 p   {
     color: white;
+    font-size: 60
 }

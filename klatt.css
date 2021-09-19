@@ -10,7 +10,8 @@ body {
       
 }
 
-h1{
-  background-color: black;
-  color: white;     
+
+P {
+  font-family: Monaco, monospace;
+  color: white;
 }

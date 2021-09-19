@@ -13,10 +13,11 @@ body {
 
 p   {
     font-family: Monaco, monospace;
-    color: #fffff;
+    color: white;
 }
 
 h   {
+    color: white;
     font-size: 30px;
     font-style: oblique;
 }

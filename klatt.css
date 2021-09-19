@@ -4,10 +4,10 @@ body {
       background-color: #137edb;
 
         #page-table {width: 1200px;}    
-        #Home {width: 300px;}
-        #JavaSript {width: 300px;}
-        #About-Me {width: 300px;}
-        #Apps {width: 300px;}
+        #Home {width: 300px; text-align:center;}
+        #JavaSript {width: 300px; text-align:center;}
+        #About-Me {width: 300px; text-align:center;}
+        #Apps {width: 300px; text-align:center;}
         
 
 }

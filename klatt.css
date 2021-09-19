@@ -1,13 +1,16 @@
 
-
-    body {
+body {
         
       background-color: #137edb;
 
-        #page-table {width: 1040px}
-        
+        #page-table {width: 1040px}    
         #Home {width: 260px}
         #JavaSript {width: 260px}
         #About-Me {width: 260px}
       
-    }
+}
+
+h1{
+  background-color: black;
+  color: white;     
+}

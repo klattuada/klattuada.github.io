@@ -8,7 +8,7 @@ body {
 
 }
 
-        table {width: 1200px;}    
+        #select-table {width: 1200px;}    
         #Home {width: 300px; text-align:center;}
         #JavaSript {width: 300px; text-align:center;}
         #About-Me {width: 300px; text-align:center;}

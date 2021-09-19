@@ -13,6 +13,7 @@ body {
         #para {width: 1200px; height: 300; text-align: left; color: white; font-size: 45px; font-family: monaco, monospace;}
 
 h1  {
+    width: 1200px;
     color: white;
     font-size: 60px;
     text-align: center;

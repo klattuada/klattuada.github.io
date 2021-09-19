@@ -17,11 +17,12 @@ body {
 h1  {
     color: white;
     font-size: 60px;
-    font-style: oblique;
+    
 }
 
 
 p   {
     color: white;
     font-size: 45px;
+    font-family: monaco, monospace;
 }

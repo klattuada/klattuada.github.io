@@ -8,12 +8,11 @@ body {
         #JavaSript {width: 260px}
         #About-Me {width: 260px}
         
-        #para {font-family: Monaco, monospace}
-        color: white;
+
 }
 
 
-h   {
+h1  {
     color: white;
     font-size: 30px;
     font-style: oblique;

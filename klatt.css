@@ -12,6 +12,11 @@ body {
 }
 
 p   {
-  font-family: Monaco, monospace;
-  color: #fffff;
+    font-family: Monaco, monospace;
+    color: #fffff;
+}
+
+h   {
+    font-size: 30px;
+    font-style: oblique;
 }

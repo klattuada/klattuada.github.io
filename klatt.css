@@ -1,4 +1,13 @@
 
+.align {
+        text-align: center;
+}
+
+
+
+
+
+
 body {
         
       background-color: #137edb;
@@ -19,6 +28,7 @@ h1  {
     text-align: center;
     
 }
+
 
 
 

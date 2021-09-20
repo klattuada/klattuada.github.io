@@ -1,16 +1,5 @@
 
-.alignA {
-        text-align: center;
-}
-.alignB {
-        text-align: center;
-}
-.alignC {
-        text-align: center;
-}
-.alignD {
-        text-align: center;
-}
+
 
 body {
         
@@ -34,5 +23,8 @@ h1  {
 }
 
 
-
+table {
+      width: 2048;
+      text-align: center;
+}
 
